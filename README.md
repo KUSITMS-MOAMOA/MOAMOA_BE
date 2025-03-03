@@ -1,6 +1,8 @@
 ## 🎯 Kusitms 30th 밋업 프로젝트 G조 MOAMOA
-> 개발 기간 : 2024.09.28 ~ 2024.11.28 <br>
-> 배포 주소 : https://www.corecord.site
+> **개발 기간** : <br>
+> [1차 스프린트] 2024.09.28 ~ 2024.11.28 <br>
+> [2차 스프린트] 2025.01 ~ <br><br>
+> **배포 주소** : https://www.moamoa.site
 
 
 <br><br>
